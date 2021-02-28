@@ -1,9 +1,5 @@
-<p align="center">
-<h1>
-<a href="https://reactjs.org/" target="_blank"><img src="src/logo.svg" width="250" height="250">
-</a> 
-</h1><br>
-    A JavaScript library for building user interfaces
+<h1 align="center">REACT</h1>
+<p align="center"><a href="https://reactjs.org/" target="_blank"><img src="src/logo.svg" width="300" height="300"></a> 
 </p>
 
 
