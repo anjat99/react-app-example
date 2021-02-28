@@ -1,5 +1,5 @@
 <h1 align="center">REACT</h1>
-<p align="center"><a href="https://reactjs.org/" target="_blank"><img src="src/logo.svg" width="300" height="300"></a> 
+<p align="center"><a href="https://reactjs.org/" target="_blank"><img src="src/logo.svg" width="300"></a> 
 </p>
 
 
