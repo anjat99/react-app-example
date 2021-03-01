@@ -34,31 +34,31 @@ function Footer() {
                             <Link  to='/sign-up'> 
                                 How it works
                             </Link>
-                            <Link  to='/'> 
+                            <Link  to='/home'> 
                                 Testemonials
                             </Link>
-                            <Link  to='/'> 
+                            <Link  to='/home'> 
                                Careers
                             </Link>
-                            <Link  to='/'> 
+                            <Link  to='/home'> 
                                 Investors
                             </Link>
-                            <Link  to='/'> 
+                            <Link  to='/home'> 
                                 Terms of Service
                             </Link>
                     </div>
                     <div class='footer-link-items'>
                         <h2>Contact Us</h2>
-                            <Link to='/'>
+                            <Link to='/home'>
                                 Contact
                             </Link>
-                            <Link to='/'>
+                            <Link to='/home'>
                                 Support
                             </Link>
-                            <Link to='/'>
+                            <Link to='/home'>
                                 Destinations
                             </Link>
-                            <Link to='/'>
+                            <Link to='/home'>
                                 Sponsorships
                             </Link>
                     </div>
@@ -66,31 +66,31 @@ function Footer() {
                 <div className='footer-link-wrapper'>
                     <div class='footer-link-items'>
                         <h2>Videos</h2>
-                            <Link to='/'>
+                            <Link to='/home'>
                                 Submit Video
                             </Link>
-                            <Link to='/'>
+                            <Link to='/home'>
                                 Ambassadors
                             </Link>
-                            <Link to='/'>
+                            <Link to='/home'>
                                 Agency
                             </Link>
-                            <Link to='/'>
+                            <Link to='/home'>
                                 Influencer
                             </Link>
                     </div>
                     <div class='footer-link-items'>
                         <h2>Social Media</h2>
-                            <Link to='/'>
+                            <Link to='/home'>
                                 Instagram
                             </Link>
-                            <Link to='/'>
+                            <Link to='/home'>
                                 Facebook
                             </Link>
-                            <Link to='/'>
+                            <Link to='/home'>
                                 Youtube
                             </Link>
-                            <Link to='/'>
+                            <Link to='/home'>
                                 Twitter
                             </Link>
                     </div>
@@ -99,7 +99,7 @@ function Footer() {
             <section className="social-media">
                 <div className="social-media-wrap">
                     <div className="footer-logo">
-                        <Link to="/" className="social-logo">
+                        <Link to="/home" className="social-logo">
                             TRVL <i className="fab fa-typo3"> </i>
                         </Link>
                     </div>
@@ -109,7 +109,7 @@ function Footer() {
                     <div className="social-icons">
                         <Link 
                             className="social-icon-link facebook" 
-                            to="/"
+                            to="/home"
                             target="_blank"
                             aria-label="Facebook"
                         >
@@ -118,7 +118,7 @@ function Footer() {
                         </Link>
                         <Link 
                             className="social-icon-link instagram" 
-                            to="/"
+                            to="/home"
                             target="_blank"
                             aria-label="Instagram"
                         >
@@ -127,7 +127,7 @@ function Footer() {
                         </Link>
                         <Link
                             class='social-icon-link youtube'
-                            to='/'
+                            to='/home'
                             target='_blank'
                             aria-label='Youtube'
                         >
@@ -135,7 +135,7 @@ function Footer() {
                         </Link>
                         <Link
                             class='social-icon-link twitter'
-                            to='/'
+                            to='/home'
                             target='_blank'
                             aria-label='Twitter'
                         >
@@ -143,7 +143,7 @@ function Footer() {
                         </Link>
                         <Link
                             class='social-icon-link twitter'
-                            to='/'
+                            to='/home'
                             target='_blank'
                             aria-label='LinkedIn'
                         >
