@@ -104,7 +104,7 @@ function Footer() {
                         </Link>
                     </div>
                     <small className="website-rights">
-                        TRVL
+                        TRVL &copy;2021.
                     </small>
                     <div className="social-icons">
                         <Link 
