@@ -14,10 +14,10 @@ function App() {
       <Router>
         <Navbar />
         <Switch>
-          <Route path="http://anjat99.github.io/react-app-example/" exact  component={Home} />
-          <Route path="http://anjat99.github.io/react-app-example/services"   component={Services} />
-          <Route path="http://anjat99.github.io/react-app-example/products"   component={Products} />
-          <Route path="http://anjat99.github.io/react-app-example/sign-up"   component={SignUp} />
+          <Route path="/" exact  component={Home} />
+          <Route path="/services"   component={Services} />
+          <Route path="/products"   component={Products} />
+          <Route path="/sign-up"   component={SignUp} />
         </Switch>
       </Router>
     </>
