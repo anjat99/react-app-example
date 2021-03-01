@@ -34,31 +34,31 @@ function Footer() {
                             <Link  to='/sign-up'> 
                                 How it works
                             </Link>
-                            <Link  to='/home'> 
+                            <Link  to='/'> 
                                 Testemonials
                             </Link>
-                            <Link  to='/home'> 
+                            <Link  to='/'> 
                                Careers
                             </Link>
-                            <Link  to='/home'> 
+                            <Link  to='/'> 
                                 Investors
                             </Link>
-                            <Link  to='/home'> 
+                            <Link  to='/'> 
                                 Terms of Service
                             </Link>
                     </div>
                     <div class='footer-link-items'>
                         <h2>Contact Us</h2>
-                            <Link to='/home'>
+                            <Link to='/'>
                                 Contact
                             </Link>
-                            <Link to='/home'>
+                            <Link to='/'>
                                 Support
                             </Link>
-                            <Link to='/home'>
+                            <Link to='/'>
                                 Destinations
                             </Link>
-                            <Link to='/home'>
+                            <Link to='/'>
                                 Sponsorships
                             </Link>
                     </div>
@@ -66,31 +66,31 @@ function Footer() {
                 <div className='footer-link-wrapper'>
                     <div class='footer-link-items'>
                         <h2>Videos</h2>
-                            <Link to='/home'>
+                            <Link to='/'>
                                 Submit Video
                             </Link>
-                            <Link to='/home'>
+                            <Link to='/'>
                                 Ambassadors
                             </Link>
-                            <Link to='/home'>
+                            <Link to='/'>
                                 Agency
                             </Link>
-                            <Link to='/home'>
+                            <Link to='/'>
                                 Influencer
                             </Link>
                     </div>
                     <div class='footer-link-items'>
                         <h2>Social Media</h2>
-                            <Link to='/home'>
+                            <Link to='/'>
                                 Instagram
                             </Link>
-                            <Link to='/home'>
+                            <Link to='/'>
                                 Facebook
                             </Link>
-                            <Link to='/home'>
+                            <Link to='/'>
                                 Youtube
                             </Link>
-                            <Link to='/home'>
+                            <Link to='/'>
                                 Twitter
                             </Link>
                     </div>
